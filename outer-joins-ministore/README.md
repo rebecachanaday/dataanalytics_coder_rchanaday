@@ -1,4 +1,4 @@
-── CONSULTA 1: LEFT JOIN ─────────────────
+── CONSULTA 1: LEFT JOIN ────────────────-
 -- Pregunta de negocio: ¿Qué productos del catálogo nunca fueron vendidos? 
 Los productos que nunca fueron vendidos son: Hub USB-C 7p y Parlante Bluetooth
 
